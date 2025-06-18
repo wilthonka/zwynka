@@ -1,2 +1,2 @@
 # zwynka
-Plataforma para recetas, escandallos y gestion gastronomica
+Plataforma gastronomica, pasteleria y hoteleria
